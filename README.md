@@ -1,4 +1,4 @@
-# oh-my-zsh-recommended-plugins-auto-installer
+# oh-my-zsh recommended plugins auto installer
 ## How to use this script:
 
 1. Save this script as `oh-my-zsh-plugin-installer.sh`.
